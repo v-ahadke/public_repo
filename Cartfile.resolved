@@ -1,0 +1,2 @@
+git "git@github.v-ahadke.biz:Brand-EG/uds-ios-tokens.git" "1.277.1"
+github "SDWebImage/SDWebImage" "5.5.2"

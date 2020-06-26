@@ -7,3 +7,5 @@ Third PR: To test git push single tag
 Fourth PR: To test git push single tag after fixing the repo name
 
 Fifth PR: Verify cartfile reference does not change for previous tag when new tag is created
+
+Sixth PR: Check if tag message is same on both repo
